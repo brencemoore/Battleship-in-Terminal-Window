@@ -24,7 +24,7 @@ Once all of the locations where a ship is present are guessed the game ends.
 
 === Issues ===
 
-If the number of ships entered by the user is too high then ships may clip through each other
+If the number of ships entered by the user is too high then ships may clip through each other.
 If there are any spaces or a letter or digit is swapped, the program will likely crash or break.
 
 
